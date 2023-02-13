@@ -1,0 +1,39 @@
+body{
+  margin: 0%;
+
+}
+#container{
+  background-color: aqua;
+}
+
+#reason{
+  font-weight: bolder;
+}
+#surname{
+  font-weight: bolder;
+}
+#other{
+  font-weight: bolder;
+}
+#mail{
+  font-weight: bolder;
+}
+#date{
+  font-weight: bolder;
+}
+#comment{
+  font-weight: bolder;
+}
+#sub{
+  font-weight: bolder;
+  font-size: xx-large;
+}
+#collect{
+  display: none;
+}
+h1{
+  margin-left: 20%;
+}
+#number{
+  font-weight: bolder;
+}
